@@ -1,2 +1,2 @@
 # whatcrawls
-Repo for an insect-themed minecraft mod
+Repo for an (alpha) insect-themed minecraft mod
